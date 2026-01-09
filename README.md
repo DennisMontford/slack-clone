@@ -1,7 +1,7 @@
 
 ---
 
-## 🧪 .env Setup
+## .env Setup
 
 ### Backend (`/backend`)
 
@@ -36,7 +36,7 @@ VITE_API_BASE_URL=http://localhost:5001/api
 
 ---
 
-## 🔧 Run the Backend
+## Run the Backend
 
 ```bash
 cd backend
@@ -44,7 +44,7 @@ npm install
 npm run dev
 ```
 
-## 💻 Run the Frontend
+## Run the Frontend
 
 ```bash
 cd frontend
