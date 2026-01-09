@@ -7,7 +7,7 @@ const AuthPage = () => {
       <div className="auth-left">
         <div className="auth-hero">
           <div className="brand-container">
-            <img src="/logo.png" alt="Slap" className="brand-logo" />
+            <img src="/slack-logo.png" alt="Slap" className="brand-logo" />
             <span className="brand-name">Slap</span>
           </div>
 
